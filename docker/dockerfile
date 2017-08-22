@@ -1,0 +1,3 @@
+FROM gireeshp/centospython3:1
+
+VOLUME /app
